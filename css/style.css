@@ -1,0 +1,24 @@
+body{
+  background-color: #AFE4DA  ;
+}
+h1{
+  color: #FFFFFF;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: left;
+}
+p {
+  font-family:serif;
+}
+ul {
+  line-height: 40px;
+}
+strong{
+  font-weight: bold;
+}
+em{
+  font-style: italic;
+}
